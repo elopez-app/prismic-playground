@@ -1,0 +1,31 @@
+{
+  "_cts": {
+    "page": {
+      "description": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "slices": {
+    "Text": {
+      "default": {
+        "primary": {
+          "text": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "LinkCard": {
+      "default": {
+        "primary": {}
+      }
+    }
+  }
+}
